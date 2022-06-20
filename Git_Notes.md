@@ -79,8 +79,6 @@ git init
 
 Congratulations! You just initialized a git repository.
 
-Click **Check my progress** to verify your performed task. If you have completed the task successfully you will be granted with an assessment score.
-
 ## Add a file to the repo
 
 Your repository is empty. It's time to put something in it!
@@ -333,10 +331,6 @@ Right now, the commit that you made in your branch then merged into the master b
    git log
    ```
 
-   Copied!
-
-   content_copy
-
 3. Switch back to the master branch in your remote session. Use thee `git checkout master` command:
 
    ```git
@@ -370,5 +364,3 @@ You successfully completed the basic git workflow. You now know how to:
 ### Additional Resources
 
 - [Installing Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-
-Reference
