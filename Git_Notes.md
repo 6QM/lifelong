@@ -23,7 +23,7 @@ At the end of this lab, you will be able to:
 
 You will need a GitHub account (it is free). Go to https://github.com/join and set up a GitHub account if you do not have one already.
 
-![GitHub_start.png](images\github)
+![GitHub_start.png](images\github.png)
 
 ## Install git
 
