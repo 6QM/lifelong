@@ -297,7 +297,7 @@ Since you are the sole owner of your repo for this lab, you don't have to create
 1. Return to your GitHub window.
 2. Open a pull request by clicking the **Pull requests** tab, then **New pull request**.
 
-![GitHub_pull_request.png](images\pr.png)
+![GitHub_pull_request.png](images/pr.png)
 
 3. In the **Compare and review** section, click on your branch name.
 4. You'll be shown what changed in the file that you're adding to Master. Click **Create pull request**
