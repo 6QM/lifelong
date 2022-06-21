@@ -23,7 +23,7 @@ At the end of this lab, you will be able to:
 
 You will need a GitHub account (it is free). Go to https://github.com/join and set up a GitHub account if you do not have one already.
 
-![GitHub_start.png](images\github.jpg)
+![GitHub_start](images/github.jpg)
 
 ## Install git
 
@@ -204,7 +204,7 @@ If you're the sole owner of your project, you don't need to use GitHub. But if y
 1. To create a new repo on GitHub, go to [github.com](https://github.com/) and log in.
 2. Click **New**:
 
-![NewRepo.png](images\githubrepo.png)
+![NewRepo.png](images/githubrepo.png)
 
 3. GitHub will ask you for some basic info about your repo. Fill out the form, then click **Create repository**.
 4. GitHub will ask you if you want to start from scratch or add a local project. Since you just created a new repo, you want to push that to GitHub. Follow the **"...or push an existing repository from the command line"** section and then copy the `GitHub repo URL`.
